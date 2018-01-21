@@ -7,4 +7,5 @@ module.exports = {
     mlab: {
         connect: 'mongodb://admin:admin@ds253587.mlab.com:53587/startup-survey',
     },
+    cookieKey: 'WILLY-NILLY-IS-RIGHT',
 };
